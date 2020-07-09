@@ -1,1 +1,2 @@
 # SystemyInformatyczne
+# zadanie-6
